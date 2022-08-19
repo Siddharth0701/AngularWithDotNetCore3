@@ -1,0 +1,12 @@
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.csprojAssemblyReference.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.AssemblyInfoInputs.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.AssemblyInfo.cs
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.csproj.CoreCompileInputs.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\bin\Debug\netstandard2.0\Infrestructure.deps.json
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\bin\Debug\netstandard2.0\Infrestructure.dll
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\bin\Debug\netstandard2.0\Infrestructure.pdb
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.csproj.CopyComplete
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.dll
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.pdb

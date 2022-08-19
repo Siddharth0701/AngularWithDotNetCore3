@@ -1,0 +1,9 @@
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.pdb
