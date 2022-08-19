@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "93h+k0VuPrvZdjc+YcPZ71nk+s/niW8yvyTpYkywyZ0umI5yoA3OnEJkI5cew0Xx5yMM3s1CyN1AMlilojTd4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siddhar15632\\Documents\\Project\\AngularWithDotNetCore3.1\\Infrestructure\\Infrestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siddhar15632\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Siddhar15632\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
