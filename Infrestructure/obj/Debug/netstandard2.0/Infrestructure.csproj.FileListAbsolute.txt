@@ -10,3 +10,4 @@ C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.csproj.CopyComplete
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.dll
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.pdb
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Infrestructure\obj\Debug\netstandard2.0\Infrestructure.GeneratedMSBuildEditorConfig.editorconfig

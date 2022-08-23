@@ -7,3 +7,4 @@ C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\bin\Debug\
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\Siddhar15632\Documents\Project\AngularWithDotNetCore3.1\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
