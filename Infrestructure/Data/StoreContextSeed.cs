@@ -15,8 +15,9 @@ namespace Infrestructure.Data
         {
             try
             {
-                if(!context.Productbrands.Any()){
+                if(!context.ProductBrands.Any()){
                     var brandData=File.ReadAllText("../Infrestructure/Data/SeedData/brands.json");
+                
                     var brands=JsonSerializer.Deserialize<List<ProductBrand>>(brandData);
                     foreach (var item in brands)
                     {
@@ -33,7 +34,7 @@ namespace Infrestructure.Data
                     }
                     await context.SaveChangesAsync();
                 }
-                if(!context.Product.Any()){
+                if(!context.Products.Any()){
                     var productsData=File.ReadAllText("../Infrestructure/Data/SeedData/products.json");
                     var products=JsonSerializer.Deserialize<List<Product>>(productsData);
                     foreach (var item in products)
