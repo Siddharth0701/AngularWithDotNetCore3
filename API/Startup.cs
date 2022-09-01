@@ -31,7 +31,7 @@ namespace API
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddControllers();
             //services.AddDbContext<StoreContext>(x=>x.UseSqlServer(Configuration.GetConnectionString("AngularConeection")));
-             services.AddDbContext<StoreContext>(options=>options.UseSqlServer(Configuration.GetConnectionString("AngularConeection")));
+             services.AddDbContext<StoreContext>(options=>options.UseSqlServer(Configuration.GetConnectionString("DefaultConeection")));
             services.AddSwaggerGen();
             
         }
